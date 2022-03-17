@@ -1,9 +1,9 @@
 package main
 
-import {
+import (
     "fmt"
     "os"
-}
+)
 
 func main() {
     // Access Inputs as environment vars
